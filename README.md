@@ -35,13 +35,13 @@ The Super Edit tool allows you to work with Android super.img files on Linux sys
 ### Basic Usage
 
 ```bash
-./super_edit.sh
+sudo ./super_edit.sh
 ```
 
 ### Debug Mode
 
 ```bash
-./super_edit.sh debug
+sudo ./super_edit.sh debug
 ```
 
 ## Available Functions
